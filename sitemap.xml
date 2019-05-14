@@ -3,6 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://t3power.github.io/w10_ui_view/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w20_oc_language/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w30_runtime/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w40_memory/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w50_block/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w60_multi_thread/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w70_runloop/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w80_network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w90_design_pattern/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w100_framework/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w110_algorithem/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t3power.github.io/w120_third_party/</loc>
+  </url>
+  
+  <url>
     <loc>https://t3power.github.io/categories/</loc>
     <priority>0</priority>
   </url>
